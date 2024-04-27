@@ -1,0 +1,11 @@
+ES6 stands for ECMAScript 6.
+
+React uses ES6 and we should be familiar with some of its new features like:
+1. Classes
+2. Arrow Function
+3. Varibles (let, const, var)
+4. Array Methods like .map()
+5. Destructuring
+6. Modules
+7. Ternary Operator
+8. Spread Operators
